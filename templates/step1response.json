@@ -1,0 +1,40 @@
+{
+	"job_function": {
+		"name": "Engineering Management",
+		"id": 12,
+		"is_live": true,
+		"job_category": {
+			"resource_uri": "/api/v1/job_category/2",
+			"id": 2,
+			"name": "Technical Management"
+		},
+		"slug": "engineering-management",
+		"resource_uri": "/api/v1/job_function/12"
+	},
+	"primary_skills": [{
+		"is_placeholder": false,
+		"name": "C/C++",
+		"ignore_in_matching": false,
+		"id": 41,
+		"job_function": "/api/v1/job_function/12",
+		"slug": "c",
+		"resource_uri": "/api/v1/primary_skill/41"
+	}, {
+		"is_placeholder": false,
+		"name": "Android",
+		"ignore_in_matching": false,
+		"id": 44,
+		"job_function": "/api/v1/job_function/12",
+		"slug": "android",
+		"resource_uri": "/api/v1/primary_skill/44"
+	}, {
+		"is_placeholder": false,
+		"name": ".NET",
+		"ignore_in_matching": false,
+		"id": 65,
+		"job_function": "/api/v1/job_function/12",
+		"slug": "net",
+		"resource_uri": "/api/v1/primary_skill/65"
+	}],
+	"secondary_skills": []
+}

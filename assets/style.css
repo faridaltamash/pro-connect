@@ -1,0 +1,9 @@
+#login{
+	background: url("../assets/images/back-image.jpg") no-repeat;
+	    width: 100%;
+    height: 100%;
+}
+.form-group {
+    /* text-align: center; */
+    margin: 45% 0 0 26%;
+}

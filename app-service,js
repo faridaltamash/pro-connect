@@ -1,0 +1,6 @@
+angular.module('angular-services', [])
+.services('updateCart',function(){
+	this.cartUpdate = function(){
+
+	} 
+})

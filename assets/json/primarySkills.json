@@ -1,0 +1,34 @@
+{
+	"data": [{
+		"is_placeholder": false,
+		"name": "PHP",
+		"skillType": "Backend Development",
+		"id": 31,
+		"job_function": "/api/v1/job_function/1",
+		"slug": "php",
+		"resource_uri": "/api/v1/primary_skill/31"
+	}, {
+		"is_placeholder": false,
+		"name": "Java",
+		"skillType": "Backend Development",
+		"id": 32,
+		"job_function": "/api/v1/job_function/1",
+		"slug": "java",
+		"resource_uri": "/api/v1/primary_skill/32"
+	}, {
+		"is_placeholder": false,
+		"name": "C/C++",
+		"skillType": "Android Development",
+		"id": 33,
+		"job_function": "/api/v1/job_function/1",
+		"slug": "c",
+		"resource_uri": "/api/v1/primary_skill/33"
+	}],
+	"meta": {
+		"total_count": 70,
+		"previous": null,
+		"limit": 1000,
+		"offset": 0,
+		"next": null
+	}
+}

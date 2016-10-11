@@ -1,0 +1,28 @@
+{
+	"data": [{
+		"friutName": "apple",
+		"description":"disc appple test",
+		"price": 200,
+		"icons":"assets/images/apple.jpg"
+	}, {
+		"friutName": "grapes",
+		"description":"disc grapes test",
+		"price": 200,
+		"icons":"assets/images/grapes.jpg"
+	}, {
+		"friutName": "papaya",
+		"description":"disc papaya test",
+		"price": 200,
+		"icons":"assets/images/papaya.jpg"
+	}, {
+		"friutName": "mango",
+		"description":"disc mango test",
+		"price": 200,
+		"icons":"assets/images/mango.jpg"
+	}, {
+		"friutName": "Pineapple",
+		"description":"disc Pineapple test",
+		"price": 200,
+		"icons":"assets/images/pinapple.jpg"
+	}]
+}
